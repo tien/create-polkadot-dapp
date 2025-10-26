@@ -10,30 +10,31 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@headlessui/react": "^2.2.0",
+    "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
-    "@reactive-dot/core": "^0.43.1",
-    "@reactive-dot/react": "^0.43.1",
-    "@reactive-dot/wallet-ledger": "^0.16.33",
-    "@reactive-dot/wallet-walletconnect": "^0.17.14",
-    "dot-connect": "^0.18.0",
-    "polkadot-api": "^1.10.2",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "@polkadot-api/descriptors": "file:.papi/descriptors",
+    "@reactive-dot/core": "^0.58.2",
+    "@reactive-dot/react": "^0.60.2",
+    "@reactive-dot/wallet-ledger": "^0.16.61",
+    "@reactive-dot/wallet-walletconnect": "^0.17.40",
+    "dot-connect": "^0.23.1",
+    "polkadot-api": "^1.20.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "@eslint/js": "^9.22.0",
-    "@tailwindcss/vite": "^4.0.14",
-    "@types/react": "^19.0.10",
-    "@types/react-dom": "^19.0.4",
-    "@vitejs/plugin-react": "^4.3.4",
-    "eslint": "^9.22.0",
-    "eslint-plugin-react-hooks": "^5.2.0",
-    "eslint-plugin-react-refresh": "^0.4.19",
-    "globals": "^16.0.0",
-    "tailwindcss": "^4.0.14",
-    "typescript": "~5.8.2",
-    "typescript-eslint": "^8.26.1",
-    "vite": "^6.2.1"
+    "@eslint/js": "^9.38.0",
+    "@tailwindcss/vite": "^4.1.16",
+    "@types/react": "^19.2.2",
+    "@types/react-dom": "^19.2.2",
+    "@vitejs/plugin-react": "^5.1.0",
+    "eslint": "^9.38.0",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.4.24",
+    "globals": "^16.4.0",
+    "tailwindcss": "^4.1.16",
+    "typescript": "~5.9.3",
+    "typescript-eslint": "^8.46.2",
+    "vite": "^7.1.12"
   }
 }

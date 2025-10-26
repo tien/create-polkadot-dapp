@@ -3,7 +3,7 @@ import { colors as c } from "#src/util/log";
 
 const config: TemplateConfig = {
   templateType: TemplateType.Recommended,
-  description: "Frontend dApp template using React, PAPI, ReactiveDOT and dot-connect",
+  description: "Frontend dApp template using React, PAPI, ReactiveDOT and DOTConnect",
   npmRoots: ["/"],
   instructions: `
 ${c.secondary("Start app:")}

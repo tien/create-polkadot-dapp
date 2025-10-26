@@ -15,7 +15,7 @@ export function AccountList() {
   const accounts = useAccounts();
 
   if (accounts.length === 0) {
-    return <></>;
+    return null;
   }
 
   return (
