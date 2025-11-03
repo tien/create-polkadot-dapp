@@ -3,7 +3,7 @@
 Create Polkadot DApp in one command:
 
 ```
-npx create-polkadot-dapp@latest
+npm create polkadot-dapp@latest
 ```
 
 ## Templates
