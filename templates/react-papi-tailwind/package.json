@@ -16,6 +16,7 @@
     "@reactive-dot/core": "^0.67.2",
     "@reactive-dot/react": "^0.67.1",
     "@reactive-dot/wallet-ledger": "^0.18.6",
+    "@reactive-dot/wallet-polkadot-vault": "^0.2.5",
     "@reactive-dot/wallet-walletconnect": "^0.18.4",
     "dot-connect": "^0.28.0",
     "polkadot-api": "^1.23.1",
